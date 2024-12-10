@@ -25,10 +25,8 @@
 
 ---
 
-## 💡 Skills
-- **Languages:** Java, Python, C++, SQL  
-- **Frameworks:** Qt, JavaFX  
-- **Tools:** Git, VS Code, PyCharm, IntelliJ  
+## 💡 Languages & Tools Usage
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cinix03&layout=compact&theme=radical)
 
 ---
 
