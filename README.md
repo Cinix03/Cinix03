@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Vasile George-Irinel
+# 👋 Hi there! I'm George-Irinel Vasile
 🎓 **Computer Science Student** at Babeș-Bolyai University, Cluj-Napoca  
 🌟 Passionate about building innovative and user-friendly applications.  
 
