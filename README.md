@@ -6,7 +6,7 @@
 
 ## 🔧 What I Do
 - Crafting applications in **Java**, **C++**, and **Python** to solve real-world problems.
-- Building interactive user interfaces with **JavaFX** and **Qt**.
+- Building interactive user interfaces with **JavaFX** and **Qt** and currently learning React.
 - Designing robust software systems using **Object-Oriented Programming** principles and **Design Patterns**.
 
 ---
