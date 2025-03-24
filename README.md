@@ -12,7 +12,7 @@
 ---
 
 ## 📌 My Projects
-- **[Movie Management System](https://github.com/Cinix03/MyFlix)**: Video Streaming application like netflix but personalized[In Progress].
+- **[MyFlix](https://github.com/Cinix03/MyFlix)**: Video Streaming application like netflix but personalized[In Progress].
 - **[SocialNetworkToy Application](https://github.com/Cinix03/SocialNetworkToy)**: A fully-featured social network simulation with messaging, real-time search, and secure authentication.  
 - **[Parking Management Application](https://github.com/Cinix03/GestiuneParcari)**: Simplifying parking space management using layered architecture and the Observer Pattern.  
 - **[Movie Management System](https://github.com/Cinix03/FilmeOOP)**: CRUD operations and filtering with Qt, focusing on OOP principles.
